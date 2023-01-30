@@ -1,4 +1,4 @@
-# Sentinel
+# VERA
 
 A Sci-fi turn-based game, created using Unreal Engine.
 
